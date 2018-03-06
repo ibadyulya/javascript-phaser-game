@@ -7,4 +7,4 @@ Gamepad tutorial:
 3. Use Enter when your game is over/ game won.
 
 Lets go play! Follow the link :
-https://ibadyulya.github.io/zombie-killer
+https://ibadyulya.github.io/javascript-phaser-game/
